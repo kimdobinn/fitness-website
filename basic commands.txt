@@ -1,0 +1,4 @@
+일단 시작했을때 Chrome 띄우기:
+
+cd fitness_website
+flutter run
