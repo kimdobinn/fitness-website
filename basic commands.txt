@@ -2,3 +2,13 @@
 
 cd fitness_website
 flutter run
+
+________________________
+Add Changes:
+git add .
+
+Commit Changes:
+git commit -m "Updated project with new changes"
+
+Push Changes to Github:
+git push origin master
